@@ -1,0 +1,12 @@
+a{
+    background-color: rgb(172, 44, 145);
+    color: white;
+    padding: 15px;
+    text-decoration: none;
+    text-align: center;
+    display:inline-block;
+    margin: 20px;
+}
+a:hover, a:active{
+    background-color: rgb(227, 171, 234);
+}
